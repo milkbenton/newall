@@ -16,11 +16,7 @@ __pycache__/
 .RData
 .Rproj.user/
 
-# Ignore local datasets but keep folder structure
-datasets/raw/*
-!datasets/raw/.gitkeep
-datasets/processed/*
-!datasets/processed/.gitkeep
+
 
 # Temporary outputs and logs
 *.tmp
